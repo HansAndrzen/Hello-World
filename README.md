@@ -1,2 +1,4 @@
 # Hello-World
-Just another repository here
+HansAndrzen´s bits will go here
+
+mostly in PowerShell
