@@ -5,7 +5,4 @@ mostly in PowerShell
 
 v1.4
 
-asi něco dopíšu
-ještě řádek
-
 
